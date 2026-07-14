@@ -33,7 +33,6 @@ Predicting the probability that a loan applicant will experience serious financi
 | XGBoost | 0.822 | 0.511 |
 
 **Top predictive features (by IV):**
-**Top predictive features (by IV):**
 1. **RevolvingUtilizationOfUnsecuredLines** — highest IV, flagged as statistically strong; how much of a customer's available credit they're currently using
 2. **NumberOfTime30-59DaysPastDueNotWorse** — Strong; recent minor payment delays
 3. **age** — Medium; older applicants tend to be lower risk
